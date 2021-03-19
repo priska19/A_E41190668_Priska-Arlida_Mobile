@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pada" type="id" />
+    <item name="subject" type="id" />
+    <item name="submit" type="id" />
+</resources>
