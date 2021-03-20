@@ -21,7 +21,8 @@ public class MainActivity extends AppCompatActivity {
         //setContentView(R.layout.table_layout);
         //setContentView(R.layout.material_design);
         //setContentView(R.layout.scrollview);
-        setContentView(R.layout.scrollviewhorizontal);
+        //setContentView(R.layout.scrollviewhorizontal);
+        setContentView(R.layout.latihan);
 
         Pada = findViewById(R.id.pada);
         Subject = findViewById(R.id.subject);
