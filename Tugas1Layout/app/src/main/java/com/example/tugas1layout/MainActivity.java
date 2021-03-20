@@ -18,13 +18,14 @@ public class MainActivity extends AppCompatActivity {
         //setContentView(R.layout.relative_layout);
         //setContentView(R.layout.constraint_layout);
         //setContentView(R.layout.frame_layout);
-        setContentView(R.layout.table_layout);
-
-
-
+        //setContentView(R.layout.table_layout);
+        //setContentView(R.layout.material_design);
+        //setContentView(R.layout.scrollview);
+        setContentView(R.layout.scrollviewhorizontal);
 
         Pada = findViewById(R.id.pada);
         Subject = findViewById(R.id.subject);
         Submit = findViewById(R.id.submit);
     }
 }
+
