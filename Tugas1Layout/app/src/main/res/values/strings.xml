@@ -11,4 +11,12 @@
     <string name="password">password</string>
     <string name="username">username</string>
     <string name="submit">Submit</string>
+    <string name="registrasi">registrasi</string>
+    <string name="alamat">alamat</string>
+    <string-array name="date">
+        <item>Wed, June 27 2012</item>
+    </string-array>
+    <string-array name="time">
+        <item>08.00 am</item>
+    </string-array>s
 </resources>

@@ -16,7 +16,7 @@
         android:layout_height="100px"
         android:layout_gravity="center"
         android:text="Tombol"
-        android:background="@color/colorAccent"
+        android:backgroundTint="@color/colorAccent"
         android:textColor="#fff"
         android:textSize="20sp"/>
 
