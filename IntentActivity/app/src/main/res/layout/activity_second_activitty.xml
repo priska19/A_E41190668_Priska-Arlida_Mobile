@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivitty">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/txtHello"
+        android:text="@string/textview"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="12dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt2ndAct"
+        android:layout_below="@+id/txtHello"
+        android:layout_alignStart="@id/txtHello"
+        android:layout_alignLeft="@id/txtHello"
+        android:text="@string/this_is_second_activity"/>
+
+
+</RelativeLayout>

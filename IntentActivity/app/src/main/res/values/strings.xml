@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentActivity</string>
+    <string name="submit">Submit</string>
+    <string name="http">http://</string>
+    <string name="nice_to_meet_you">Nice to meet you!</string>
+    <string name="name">Name</string>
+    <string name="your_name">Your name</string>
+    <string name="textview">TextView</string>
+    <string name="this_is_second_activity">This is Second Activity</string>
+</resources>
