@@ -9,4 +9,5 @@
     <string name="nama">Nama</string>
     <string name="nomor">Nomor</string>
     <string name="buat_biodata_baru">Buat Biodata Baru</string>
+    <string name="user">Namaku adalah</string>
 </resources>

@@ -30,7 +30,6 @@ public class BuatBiodata extends AppCompatActivity {
         text5 = findViewById(R.id.editText5);
         ton1 = findViewById(R.id.button1);
         ton2 = findViewById(R.id.button2);
-
         ton1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View arg0) {
